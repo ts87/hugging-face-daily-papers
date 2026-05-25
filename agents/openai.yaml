@@ -1,0 +1,4 @@
+interface:
+  display_name: "Hugging Face 每日论文"
+  short_description: "抓取前一天 Hugging Face 高票论文并生成简介"
+  default_prompt: "Use $hugging-face-daily-papers to summarize yesterday's Hugging Face papers with more than 5 votes."
